@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/foodwebsite/static/css/main.d73ca2b6.css",
+    "main.js": "/foodwebsite/static/js/main.b3e47b58.js",
+    "static/js/787.e1f11148.chunk.js": "/foodwebsite/static/js/787.e1f11148.chunk.js",
+    "static/media/banner.jpg": "/foodwebsite/static/media/banner.cb2b99107c8b75dee796.jpg",
+    "static/media/banner-3.jpg": "/foodwebsite/static/media/banner-3.8daf68a957b9b7ad9f8c.jpg",
+    "static/media/02.png": "/foodwebsite/static/media/02.71b05699ca14814465f6.png",
+    "static/media/page-ban-bg.png": "/foodwebsite/static/media/page-ban-bg.aa2a71c402b885b4727d.png",
+    "static/media/abt-1.jpg": "/foodwebsite/static/media/abt-1.a10ccee670ffdf331c58.jpg",
+    "static/media/01.png": "/foodwebsite/static/media/01.634e18714e1d4a5e04f3.png",
+    "static/media/sr-1.jpg": "/foodwebsite/static/media/sr-1.9c84f3bc0936361fbae6.jpg",
+    "static/media/lmroman-10-regular.otf": "/foodwebsite/static/media/lmroman-10-regular.3a0c015385f232f7b887.otf",
+    "static/media/sr-3.jpg": "/foodwebsite/static/media/sr-3.af16e95f3d53ea2a9180.jpg",
+    "static/media/sr-2.jpg": "/foodwebsite/static/media/sr-2.361277e9cdbe25e755e9.jpg",
+    "static/media/contact-bg.jpg": "/foodwebsite/static/media/contact-bg.2ecf3a82a9d21120139b.jpg",
+    "static/media/menu-4.jpg": "/foodwebsite/static/media/menu-4.7744887b3f2a52340086.jpg",
+    "static/media/menu-5.jpg": "/foodwebsite/static/media/menu-5.e10a75c358aa833fa25b.jpg",
+    "static/media/menu-3.jpg": "/foodwebsite/static/media/menu-3.24d5a0260e52eec574c2.jpg",
+    "static/media/menu-1.jpg": "/foodwebsite/static/media/menu-1.dad46b830675e585108e.jpg",
+    "static/media/menu-6.jpg": "/foodwebsite/static/media/menu-6.f50ad46a1aa8ca605d22.jpg",
+    "static/media/menu-2.jpg": "/foodwebsite/static/media/menu-2.44d28ce79bff1691d640.jpg",
+    "static/media/logo-2.png": "/foodwebsite/static/media/logo-2.cc62e6df01b21156e5ab.png",
+    "static/media/slick.svg": "/foodwebsite/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/foodwebsite/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/foodwebsite/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/foodwebsite/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/foodwebsite/index.html",
+    "main.d73ca2b6.css.map": "/foodwebsite/static/css/main.d73ca2b6.css.map",
+    "main.b3e47b58.js.map": "/foodwebsite/static/js/main.b3e47b58.js.map",
+    "787.e1f11148.chunk.js.map": "/foodwebsite/static/js/787.e1f11148.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d73ca2b6.css",
+    "static/js/main.b3e47b58.js"
+  ]
+}
